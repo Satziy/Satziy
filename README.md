@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS, Fullstack
 - 💞️ I’m looking to collaborate on Web Design projects, Game projects, Illustration projects
 - 📫 How to reach me pihlajamaa.satu@gmail.com
+- Profile picture drawn and copyrighted by me Satu Pihlajamaa
 
 <!---
 Satziy/Satziy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
